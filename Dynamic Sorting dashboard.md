@@ -21,19 +21,19 @@ Built using calculated measures and columns, this Power BI dashboard allows user
 
 - step 5: Under report view , drag SLICER and add state/provision column to filed. In visuaization under format slicers settings changes the options style to "TILE" make all format changes to the visual.
 
-    image 1
+   ![Image](https://github.com/user-attachments/assets/5c1d2ea9-e9ff-4557-b834-09d13dcb31c7)
 
 - step 6: Drag an other SLICER and add Category column to filed. In visuaization under format slicers settings changes the options style to "TILE" make all format changes to the visual.
 
-    image 2
+    ![Image](https://github.com/user-attachments/assets/901e59ee-1280-445e-a8b5-431a289bcc4c)
 
 - step 7: Drag an other SLICER and add Segment column to filed. In visuaization under format slicers settings changes the options style to "TILE" make all format changes to the visual.
   
-    image 3
+    ![Image](https://github.com/user-attachments/assets/190a870f-4601-4e0f-86d8-8de0b2efb2e2)
 
 - step 8: Add a text box and set a name for the dashboard as "DYNAMIC SORTING" and make all the format required .
   
-    image 4
+    ![Image](https://github.com/user-attachments/assets/70c6070d-f4d0-40d0-bdda-8ef167f62a42)
 
 - Step 9 : Now Create a new column and new measures for the following 
 
@@ -58,7 +58,7 @@ Built using calculated measures and columns, this Power BI dashboard allows user
 
       #4.Under home tab click center data and add Profit and Sales under column1 and create a table.
 
-    image 5
+    ![Image](https://github.com/user-attachments/assets/e04db21a-65b5-4bf0-b9e6-6f15ff7156b4)
 
 
       #5.Now create a new measure for selected vlaue .To get dynamic results for sales and profits.  
@@ -93,11 +93,11 @@ Built using calculated measures and columns, this Power BI dashboard allows user
 - step 10: Drag Matrix table and add subcategory and product name to rows,
   add table PS  and QRT to columns and selected value measure to values .
 
-    image 6
+   ![Image](https://github.com/user-attachments/assets/483246c9-84e8-4f1f-b7dd-80126dec0ba8)
 
 - step 11: Drag an other SLICER and add QRT column to filed. In visuaization under format slicers settings changes the options style to "TILE" make all format changes to the visual.
 
-    image 7
+    ![Image](https://github.com/user-attachments/assets/9e745447-9fc1-4f2d-bf95-652e798680b8)
 
 
 This dashboard presents sales data across different regions, enabling users to analyze quarterly sales and profits dynamically.Minly focused on creating dynamic charts,measures, columns and tables.

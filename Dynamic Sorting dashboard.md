@@ -1,5 +1,5 @@
 
-# Dynamic Dashboard Powerbi 
+# Dynamic Sort Dashboard Powerbi 
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/986d066b-d13d-4757-bf30-9873769c3bb0/e9e7c78a4640339699ba?experience=power-bi
 

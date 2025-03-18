@@ -105,7 +105,7 @@ Built using calculated measures and columns, this Power BI dashboard allows user
 
 - step 12: Drag an other SLICER and add Table PS column to filed for dynamic selection for sales and profit. In visuaization under format slicers settings changes the options style to "TILE" make all format changes to the visual.
 
-    
+    ![Image](https://github.com/user-attachments/assets/ba480a63-2481-46ec-bfe1-10c2047f3f17)
 
 This dashboard presents sales data across different regions, enabling users to analyze quarterly sales and profits dynamically.Minly focused on creating dynamic charts,measures, columns and tables.
 

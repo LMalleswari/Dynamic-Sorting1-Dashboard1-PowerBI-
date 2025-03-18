@@ -95,6 +95,8 @@ Built using calculated measures and columns, this Power BI dashboard allows user
 
    ![Image](https://github.com/user-attachments/assets/7151294a-f5fd-45c9-9886-c635985f3552)
 
+ - step 11: Now right click on Profits and click Expact to get all the levels.
+ - 
    ![Image](https://github.com/user-attachments/assets/483246c9-84e8-4f1f-b7dd-80126dec0ba8)
 
 - step 11: Drag an other SLICER and add QRT column to filed. In visuaization under format slicers settings changes the options style to "TILE" make all format changes to the visual.
